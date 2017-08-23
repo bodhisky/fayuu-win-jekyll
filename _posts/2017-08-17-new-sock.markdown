@@ -1,0 +1,26 @@
+---
+layout:     post
+title:      "新建蓑子"
+subtitle:   "飞起"
+date:       2017-08-17
+author:     "Hux"
+header-img: "img/post-bg-js-module.jpg"
+tags:
+    - 帆樯
+---
+
+## 新建了蓑子（安卓用）
+
+
+- 从[蓑子下载列表](https://github.com/shadowsocks/shadowsocks-android/releases)下载最新版蓑子
+- 打不开的话，[从这里直接下](https://cdn.fayuu.win/suozi-4.2.3.apk)
+
+- 扫码添加配置或者复制以下代码从剪切板导入
+
+
+```
+ss://YWVzLTI1Ni1jZmI6bG9saW5h@35.189.131.108:3389
+```
+
+![fanqiang-qr](https://cdn.fayuu.win/img/addbyqr.jpg)
+![fanqiang-qr](https://cdn.fayuu.win/img/fan-qr.jp
