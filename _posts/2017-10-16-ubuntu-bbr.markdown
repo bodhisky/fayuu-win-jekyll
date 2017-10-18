@@ -87,6 +87,8 @@ net.ipv4.tcp_mtu_probing = 1
 # forward ipv4
 net.ipv4.ip_forward = 1
 
+net.ipv4.tcp_fastopen = 3
+
 ```
 
 ## 保存生效
