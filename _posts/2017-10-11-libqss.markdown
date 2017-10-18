@@ -38,7 +38,8 @@ sudo apt install shadowsocks-libqtshadowsocks libqtshadowsocks
     "timeout":600,
     "method":"aes-256-cfb",
     "http_proxy": false,
-    "auth": false
+    "auth": false,
+    "fast_open" : true
 }
 ```
 
