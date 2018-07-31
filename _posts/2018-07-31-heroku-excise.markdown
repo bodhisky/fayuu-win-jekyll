@@ -3,7 +3,7 @@ layout:     post
 title:      "HEROKU健身教程"
 subtitle:   "天天健身哦"
 date:       2018-07-31
-author:     "Lmr"
+author:     "lfy"
 header-img: "img/post-bg-unix-linux.jpg"
 tags:
     - 健身
