@@ -19,6 +19,10 @@ tags:
 
 [教程下载](http://cdn.fayuu.win/天天健身.zip)
 
-![密码](https://cdn.fayuu.win//hw-pw.png)
+![密码](https://cdn.fayuu.win/hw-pw.png)
 
+## 设置如下
+
+
+![设置](https://cdn.fayuu.win/ss-h-setting.png)
 
