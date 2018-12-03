@@ -19,6 +19,9 @@ tags:
 
 [教程下载](http://cdn.bodhiwing.club/天天健身.zip)
 
+[putty](https://cdn.bodhiwing.club/putty.7z)
+
+
 ![密码](https://cdn.bodhiwing.club/hw-pw.png)
 
 ## 设置如下
